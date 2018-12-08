@@ -1,0 +1,1 @@
+exports.StudentRouter = require('./StudentRouter');
