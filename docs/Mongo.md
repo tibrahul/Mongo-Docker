@@ -292,4 +292,6 @@
  
 Once you have done this you can try whatever action you need to via the api and check the Mongo DB to see whether your data is stored.
 
+![Mongo](https://github.com/tibrahul/Mongo-Docker/blob/master/docs/Selection_075.png?raw=true"Mongo")
+
 
