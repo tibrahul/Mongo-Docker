@@ -16,6 +16,11 @@
  
 # Mongo Installation<br/>
    Mongo is Database which can be used to store your data. In here i am going to containerize Mongo DB in docker with volumes and show how to connect it with you node application.
+   # Dan Edits<br/>
+   these are place holders that Dan created - still need help from Rahul
+   [instaling via docker contianer](https://www.tutorialspoint.com/docker/docker_setting_mongodb.htm)
+   [basic commands](https://dzone.com/articles/top-10-most-common-commands-for-beginners)
+   [listing collections](https://docs.mongodb.com/manual/reference/command/listCollections/)
    
 ### Setup Mongo in Docker
    To run this you need to first pull the image from the Docker hub by using this command.
