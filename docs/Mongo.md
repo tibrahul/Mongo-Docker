@@ -64,7 +64,7 @@
             "HostnamePath": "/var/lib/docker/containers/46cb45972920d0e47dde65f8043cff21973c8b50fc297ea42b46de96469e450e/hostname",
             "HostsPath": "/var/lib/docker/containers/46cb45972920d0e47dde65f8043cff21973c8b50fc297ea42b46de96469e450e/hosts",
             "LogPath": "/var/lib/docker/containers/46cb45972920d0e47dde65f8043cff21973c8b50fc297ea42b46de96469e450e/46cb45972920d0e47dde65f8043cff21973c8b50fc297ea42b46de96469e450e-json.log",
-            ...........
+            ...............
             
                 "SandboxKey": "/var/run/docker/netns/af472f4f3f13",
                 "SecondaryIPAddresses": null,
