@@ -10,8 +10,8 @@
  
  
 # Prerequisites<br/> 
-  [Install docker](https://docs.docker.com/install/)
-  [Install MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+  [Install docker](https://docs.docker.com/install/)<br/>
+  [Install MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)<br/>
   [Install Studio3T](https://studio3t.com/download/)
  
 # Mongo Installation<br/>
